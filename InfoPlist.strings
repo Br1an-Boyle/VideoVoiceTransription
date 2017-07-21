@@ -1,0 +1,2 @@
+"NSCameraUsageDescription" = "Allow Intercom Camera access in order to take photos and videos that can be uploaded from the app.";
+"NSMicrophoneUsageDescription" = "Allow Intercom microphone access in order to take videos that can be uploaded from the app.";
